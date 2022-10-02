@@ -1,5 +1,7 @@
 # Corona Board
 
+"코로나보드로 배우는 실전 웹 서비스 개발" 참고
+
 ## coronaboard-api
 
 - Corona Board API Server using Express and MySQL
@@ -14,6 +16,4 @@
 
 ## tools
 
-- A downloader to get notifications and country information using Google Sheet
-
-"코로나보드로 배우는 실전 웹 서비스 개발" 참고
+- A downloader to get notices and countries' information using Google Sheet
