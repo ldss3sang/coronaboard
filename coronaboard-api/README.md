@@ -1,4 +1,4 @@
-# coronaboard-api
+# coronaboard-api 💻
 
 ## Global Stats
 
