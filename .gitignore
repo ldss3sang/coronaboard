@@ -131,3 +131,5 @@ dist
 
 # google sheet downloaded file
 tools/downloaded
+tools/accessToken.json
+tools/credentials.json
