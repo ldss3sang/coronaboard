@@ -43,7 +43,7 @@ class SheetApiClientFactory {
       scope: SCOPES,
     });
 
-    console.log("다음 URL을 브라우저에서 열어 인증을 진행하세요:", authUrl);
+    console.log("Please open the following URL to authenticate: ", authUrl);
 
     const rl = readline.createInterface({
       input: process.stdin,
@@ -52,7 +52,7 @@ class SheetApiClientFactory {
 
     const code = await new Promise((resolve) => {
       rl.question(
-        "인증이 완료되어 발급된 코드를 여기에 붙여넣으세요: ",
+        "Please paste the code issued from the above link: ",
         (code) => {
           resolve(code);
         }
