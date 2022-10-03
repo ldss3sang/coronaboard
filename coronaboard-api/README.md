@@ -12,7 +12,7 @@
 - POST `/key-value`
 - DELETE `/key-value/:key`
 
-## Get Started
+## Quick Start
 
 1. Run `npm install`
 2. Create .env file under the root folder and add the following environment variables for database
