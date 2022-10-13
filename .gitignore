@@ -133,3 +133,5 @@ dist
 tools/downloaded
 tools/accessToken.json
 tools/credentials.json
+
+output/
